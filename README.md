@@ -293,5 +293,3 @@ Este proyecto está bajo licencia MIT - ver archivo LICENSE para más detalles.
 ## Agradecimientos
 
 Proyecto desarrollado como parte de mi portfolio para demostrar habilidades en DevOps, Cloud Engineering e Infrastructure as Code.
-
-Si este proyecto te resultó útil, ¡dale una estrella!
